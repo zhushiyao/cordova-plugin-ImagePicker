@@ -167,7 +167,7 @@
         </config-file>
 
 
-        <config-file target="AndroidManifest.xml" parent="/manifest">
+        <config-file target="AndroidManifest.xml" parent="/*">
 
             <!-- 在SDCard中创建与删除文件权限 -->
             <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
