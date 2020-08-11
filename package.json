@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/giantss/cordova-plugin-ImagePicker"
+    "url": "https://github.com/zhushiyao/cordova-plugin-ImagePicker.git"
   },
   "keywords": [
     "cordova",
