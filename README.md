@@ -1,3 +1,5 @@
+# Fork -- 解决安装时权限冲突报错问题
+
 # cordova-plugin-ImagePicker
 
 非常感谢[南尘](https://github.com/nanchen2251)和 [banchichen](https://github.com/banchichen) 提供的源码支持 多点star✨开源不容易，谢谢。扣扣群：273613165
@@ -20,7 +22,7 @@
 
 ## 安装
 
- - `cordova plugin add https://github.com/giantss/cordova-plugin-ImagePicker.git`
+ - `cordova plugin add https://github.com/zhushiyao/cordova-plugin-ImagePicker.git`
 
 
 注意：Android 项目先不要直接 build ，见 [android注意事项](#android注意事项)。
